@@ -1,3 +1,6 @@
 .DS_Store
 aws.json
 .Rhistory
+build/
+__marimo__/
+__pycache__/
